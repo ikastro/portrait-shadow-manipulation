@@ -1,0 +1,3 @@
+[submodule "Multitarget-tracker"]
+	path = Multitarget-tracker
+	url = https://github.com/ikastro/Multitarget-tracker
